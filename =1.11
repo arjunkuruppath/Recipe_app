@@ -1,0 +1,2 @@
+Requirement already satisfied: djangorestframework-jwt in ./venv/lib/python3.8/site-packages (1.11.0)
+Requirement already satisfied: PyJWT<2.0.0,>=1.5.2 in ./venv/lib/python3.8/site-packages (from djangorestframework-jwt) (1.7.1)
